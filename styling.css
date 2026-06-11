@@ -1,0 +1,197 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+#Parent-Navbar{
+    background-color:rgb(216, 0, 0);;
+    
+}
+#Parent-Navbar>#Topnavbar{
+    display:flex;
+} 
+.cls{
+    height:25px;
+    width:25px;
+    
+}
+#apps{
+    padding:20px;
+    padding-right:40px;
+}
+
+#bottom{
+    display: flex;
+    gap: 5px;
+}
+h5{
+    color:white
+}
+#Parent-Navbar>#Bottomnavbar{
+    color:white;
+    cursor:pointer;
+    
+    
+}
+
+#Bottomnavbar>ul{
+    display: flex;
+    padding-left:45px;
+}
+ul>li{
+    flex:0.2px;
+    list-style:none;
+}
+#image{
+    padding:25px;
+    padding-left:55px;
+    padding-top:50px;
+}
+#title{
+    height:50px;
+    width:250px;
+    position:relative;
+    top:-25px;
+    left:-45px;
+    background-color:rgb(216, 0, 0);
+}
+#title>h5{
+    font-size:20px;
+    text-align:center;
+    padding:10px;
+
+    
+}
+#img1{
+    padding-left:100px;
+}
+#seiko{
+    height:100px;
+    width:250px;
+    border:2px solid black;
+    position: relative;
+    right:40px;
+    padding-left:25px;
+    padding:20px;
+    background-color:orange;
+}
+#time{
+    height:50px;
+    width:200px;
+    border:2px solid black;
+    padding-left:15px;
+    background-color:black;
+}
+.mention{
+    font-size:10px;
+    color:white;
+}
+#date{
+    position:relative;
+    left:30px;
+    top:20px;
+    color:goldenrod ;
+} 
+#matchday{
+    position:absolute;
+    left:1150px;
+    top:450px;
+    font-size:12.5px;
+    color:goldenrod;
+    padding:5px;
+}
+#match2{
+    height:100px;
+    border:2px solid black;
+    position:absolute;
+    right:22px;
+    top:470px;
+    width:350px;
+    /* background-color: wheat; */
+    padding:10px;
+}
+#vs{
+    padding-left:10px;
+}
+#srh{
+    height:50px;
+    width:50px;
+    border-radius:50px;
+    
+}
+#rcb{
+    height:50px;
+    width:50px;
+    border-radius:50px;
+    
+}
+.scorecard{
+    height:50px;
+    width:80px;
+    background-color:rgb(103, 100, 100);
+    /* box-shadow: 1px 1px 1px 1px white; */
+    
+}
+#ipl{
+    position:relative;
+    top:150px;
+    right:25px;
+}
+#nextgame{
+    height:100px;
+    width:350px;
+    border:2px solid;
+    position:absolute;
+    right:22px;
+    top:600px;
+    padding:10px;
+}
+#lsg{
+    height:50px;
+    width:50px;
+    border-radius: 50px;
+}
+#pbks{
+    height:50px;
+    width:50px;
+    border-radius:50px;
+    
+}
+#nextgame>h1{
+    position:absolute;
+    bottom:-40px;
+    left:35px;
+}
+#name{
+    position:absolute;
+    top:650px;
+    left:55px;
+    height: 100px;
+    width:800px;
+    color:goldenrod;
+}
+#content{
+    height:500px;
+    width:1513px;
+}
+h6{
+    position:absolute;
+    left:650px;
+}
+#content{    
+    padding:20px;
+}
+#footer{
+    height:200px;
+    width:1513px;
+    border:2px solid black;
+    padding:40px;
+    background-color: black;
+}
+#footer1{
+    border-right:0.5px solid grey;
+}
+.footwords{
+    color:white;
+}
+
