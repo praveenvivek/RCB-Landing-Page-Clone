@@ -53,7 +53,7 @@ RCB-Landing-Page-Clone/
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](Screenshot 2026-06-12 104141.png)
+![Homepage Screenshot](https://github.com/praveenvivek/RCB-Landing-Page-Clone/blob/29a35c05155a31d6cd3d194f1db7465f659e2d3d/Screenshot%202026-06-12%20104141.png)
 
 ## 🎯 Learning Outcomes
 
