@@ -53,13 +53,7 @@ RCB-Landing-Page-Clone/
 
 ## 📸 Screenshots
 
-Add screenshots of your project here.
-
-Example:
-
-```markdown
-![Homepage Screenshot](assets/images/screenshot.png)
-```
+![Homepage Screenshot](Screenshot 2026-06-12 104141.png)
 
 ## 🎯 Learning Outcomes
 
